@@ -1,0 +1,50 @@
+body{
+  background: #ffffff;
+}
+
+.ieee-logo{
+  max-width: 100%;
+  margin-top: -10px;
+}
+
+.header{
+  text-align: center;
+  border-bottom: 1px solid #EDF0F5;
+  color: #405C9A;
+  -webkit-box-shadow:0px 3px 3px #C2C5C9;
+  -moz-box-shadow:0px 3px 3px #C2C5C9;
+  box-shadow:0px 3px 3px #C2C5C9;
+  background: #EDF0F5;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 100;
+}
+
+.form-control{
+  width: auto;
+}
+
+label{
+  display: flex;
+}
+
+.cont{
+  margin-top: 160px;
+}
+
+.form-name{
+  color: #405C9A;
+}
+
+.form-cont{
+  margin-top: 40px;
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: #20FC8F;
+}

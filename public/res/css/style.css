@@ -1,0 +1,75 @@
+h2{
+color:rgb(20, 101, 27);
+font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+h3{
+font-family: 'Indie Flower', cursive;
+color:grey;
+}
+#ContactLogo{
+    width:700px;
+    height:400px;
+padding-left:90px;
+padding-right:170px;
+}
+#ContactForm{
+padding-left:60px;
+font-family: 'Cormorant Upright', serif;
+color:grey;
+}
+#submit_button{
+background-color: rgb(20, 101, 27);
+color:black;
+}
+#mission{
+width:1100px;
+background-color: white;
+}
+body{
+background-color: rgb(239,228,176);
+padding-bottom: 70px;
+}
+#FC{
+background-color: rgb(239,228,176);
+border-radius: 10px;
+}
+#ATbrand{
+margin-top: -11px;
+}
+#barSlogan{
+    color: rgb(20, 101, 27);
+}
+
+#bS{
+    color: rgb(20, 101, 27);
+}
+#NB{
+    font-family: 'Baloo Da', cursive;
+}
+#accordion{
+    font-family: 'Carme', sans-serif;
+    color:rgb(239,228,176);
+
+}
+.panel-body {
+    background-color: rgb(20, 101, 27);
+}
+.boardimg{
+    margin-left:100px;
+}
+.boarddata{
+    margin-left:250px;
+}
+#cr{
+font-family: 'Baloo Paaji', cursive;
+padding-left: 360px;
+color:rgb(20, 101, 27);
+}
+h4{
+font-family: 'Acme', sans-serif;
+}
+#fb{
+    margin-top:-7px;
+margin-left:25px;
+}
